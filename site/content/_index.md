@@ -13,13 +13,13 @@ intro:
     We offer cloud based solutions for data needs and help you understand your
     data for better ideas and new business models. 
 products:
-  - image: img/illustrations-coffee.svg
+  - image: /img/eduserve.jpg
     text: |-
       Eduserve© is a higher education ERP solution of choice for institutions
             with bespoke requirement. With comprehensive set of features and
             future-ready technology. Eduserve© strengthens workflow in higher
             education, from student recruitment, retention to management.
-  - image: /img/illustrations-coffee-gear.svg
+  - image: /img/peopleserve.jpg
     text: |-
       Peopleserve© is an out of the box donor management solution for non-profit
             organisations to help charities, churches, and growing organisations make
