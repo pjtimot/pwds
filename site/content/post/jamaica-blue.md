@@ -1,5 +1,5 @@
 ---
-title: EARL Conferebce
+title: EARL Conference
 date: 2019-06-01T14:04:10.000Z
 description: |-
   10-12 September 2019 
