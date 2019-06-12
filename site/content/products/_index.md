@@ -1,55 +1,58 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+title: Ideas in the cloud
+image: /img/cloud.jpg
 heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Data integrity
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        Deliver a student records system that will allow for the collection of
+        good quality data
+
+        and subsequently provide good quality information relating to students,
+        programmes, modules and
+
+        progression & award status.
     - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        A web-based application that can be accessed by any authorized user via
+        the internet.
+
+        Access to specific functionality within EDUSERVE will be limited to the
+        role(s) assigned to each
+
+        authorized user.
     - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        Modern, web-based donor management software tool for
+
+        nonprofit organisations. You can track just about any kind of
+        information
+
+        about your donors with Peopleserve.
     - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+      text: |-
+        Your donors can sign in securely to review their donation history, print
+        receipts and reports, and even update your database with their latest
+        contact information.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Data integrity within our applications is paramount to ensure reliable
+    information that is produced by the
+
+    institution is exploited for the benefit of the institution, used with
+    confidence to support operational
+
+    & management decision making, to support the performance management of
+    student achievement
+
+    and to provide an overall better student experience.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Painless data entry
+  description: |-
+    Peopleserve keeps thing flowing smoothly with auto complete, easy
+    keystrokes, and smart form layouts.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -98,5 +101,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
 
