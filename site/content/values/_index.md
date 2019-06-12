@@ -1,9 +1,9 @@
 ---
 title: Values
-image: /img/about-jumbotron.jpg
+image: /img/values.jpg
 values:
   - heading: Creative Mind
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: /img/creative.jpg
     text: PWDS  is continuously seeking ideas to nurture the creative Mind.
   - heading: Data Protection
     imageUrl: /img/about-single-origin.jpg
