@@ -5,7 +5,7 @@ heading: What we offer
 description: Data integrity
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/record.jpg
       text: >-
         Deliver a student records system that will allow for the collection of
         good quality data
@@ -14,7 +14,7 @@ intro:
         programmes, modules and
 
         progression & award status.
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/web.jpg
       text: >-
         A web-based application that can be accessed by any authorized user via
         the internet.
@@ -23,7 +23,7 @@ intro:
         role(s) assigned to each
 
         authorized user.
-    - image: /img/illustrations-tutorials.svg
+    - image: /img/modern.jpg
       text: >-
         Modern, web-based donor management software tool for
 
@@ -31,7 +31,7 @@ intro:
         information
 
         about your donors with Peopleserve.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/secure.jpg
       text: |-
         Your donors can sign in securely to review their donation history, print
         receipts and reports, and even update your database with their latest
@@ -63,41 +63,39 @@ main:
     alt: Coffee beans
     image: /img/dataentry.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Dr. Elijah Blessing
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I am impressed by the training, incredible customer support and, of
+      course, the application  itself.
+  - author: 'Alec '
+    quote: Peopleserve made our transition from our legacy systems simple and fast.
 full_image: /img/susbcribe.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    We make it easy to subscribe to our applications. Choose one of our monthly
+    subscription plans to receive access to worldclass applications . Contact us
+    about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Upto 10000 contacts
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - Custom reports
+        - Bespoke payment gateway
+        - fundraising tools
+      plan: Starter
+      price: '4'
+    - description: Upto 1 million contacts
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - Custom reports
+        - Bespoke payment gateway
+        - fundraising tools
+      plan: Professional
+      price: '7'
+    - description: Want a bespoke solution? Try our custom plan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
+        - Custom reports
+        - Multiple payment options
+        - Unlimited emails
       plan: Custom
       price: '?'
 ---
