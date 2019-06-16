@@ -16,10 +16,10 @@ intro:
         progression & award status.
     - image: /img/web.jpg
       text: >-
-        A web-based application that can be accessed by any authorized user via
+        A web-based application that can be accessed by any authorised user via
         the internet.
 
-        Access to specific functionality within EDUSERVE will be limited to the
+        Access to specific functionality within applications are limited to the
         role(s) assigned to each
 
         authorized user.
@@ -99,4 +99,3 @@ pricing:
       plan: Custom
       price: '?'
 ---
-
