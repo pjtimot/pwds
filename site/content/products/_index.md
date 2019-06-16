@@ -67,7 +67,7 @@ testimonials:
     quote: >-
       I am impressed by the training, incredible customer support and, of
       course, the application  itself.
-  - author: 'Alec '
+  - author: Alec Narayan
     quote: Peopleserve made our transition from our legacy systems simple and fast.
 full_image: /img/susbcribe.jpg
 pricing:
