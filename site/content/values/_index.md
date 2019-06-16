@@ -9,7 +9,7 @@ values:
     imageUrl: /img/protect.jpg
     text: |-
       We process personal data only as long as it is necessary for the
-            fulfillment of our contract obligations. 
+            fulfillment of our contract obligations.
   - heading: Customers First
     imageUrl: /img/dylan-gillis-533818-unsplash.jpg
     text: |-
@@ -23,6 +23,4 @@ values:
     text: |-
       We want to truly empower the communities that we work in. That’s why we
             reinvest 10% of our profits into schools everywhere our company operates.
-            You can see the communities grow and learn more  on our blog.
 ---
-
