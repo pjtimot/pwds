@@ -1,6 +1,5 @@
 ---
 title: Contact
-logo: /img/pwds_logo.png
 contact_entries:
   - heading: Location
     text: |-
